@@ -6,7 +6,7 @@
 //  Copyright © 2016年 hzch. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <AppKit/AppKit.h>
 
 @interface CHPlugin : NSObject
 
